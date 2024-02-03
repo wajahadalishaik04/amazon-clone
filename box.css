@@ -1,0 +1,31 @@
+.box{
+    display: flex;
+    justify-content: space-between;
+}
+.box1{
+    width: 20%;
+    height: 100px;
+    background-color: aqua;
+    border: 2px solid black;
+}
+.box2{
+    width: 20%;
+    height: 100px;
+    background-color: rgb(51, 30, 167);
+    border: 2px solid black;
+
+}
+.box3{
+    width: 20%;
+    height: 100px;
+    background-color: rgba(168, 194, 19, 0.87);
+    border: 2px solid black;
+
+}
+.box4{
+    width: 20%;
+    height: 100px;
+    background-color: rgba(242, 26, 250, 0.774);
+    border: 2px solid black;
+
+}
